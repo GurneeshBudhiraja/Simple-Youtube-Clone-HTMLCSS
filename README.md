@@ -4,7 +4,7 @@ Welcome to the YouTube Clone project repository! 🚀 This project is a simplifi
 
 ## Key Features
 
-- Responsive design for various screen sizes.
+- Responsive design.
 - HTML5 for semantic structure.
 - CSS for styling and layout.
 
